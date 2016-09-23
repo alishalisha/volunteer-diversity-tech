@@ -11,5 +11,6 @@ careers in technology
 * [Girl Develop It](https://www.girldevelopit.com/)
 * [Girls Tech Too](http://girlstechtoo.org/)
 * [Latina Girls Code](http://www.latinagirlscode.org/)
+* [ScriptEd](https://scripted.org/)
 
 Please feel free to submit a PR and add your organization.
