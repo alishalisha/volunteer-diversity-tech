@@ -12,5 +12,6 @@ List of organizations working to improve diversity in technology careers.
 * [Latina Girls Code](http://www.latinagirlscode.org/)
 * [Resilient Coders](http://www.resilientcoders.org/), Boston-based
 * [ScriptEd](https://scripted.org/)
+* [Science Club For Girls](http://www.scienceclubforgirls.org)
 
 Please feel free to submit a PR and add your organization.
