@@ -14,4 +14,4 @@ List of organizations working to improve diversity in technology careers.
 * [ScriptEd](https://scripted.org/)
 * [Science Club For Girls](http://www.scienceclubforgirls.org)
 
-Please feel free to submit a PR and add your organization.
+Please feel free to open a PR and add your organization. You can also email me at ramos.alisha@gmail.com with your suggestion.
