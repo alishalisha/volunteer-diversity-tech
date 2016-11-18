@@ -15,3 +15,5 @@ List of organizations working to improve diversity in technology careers.
 * [Science Club For Girls](http://www.scienceclubforgirls.org)
 
 Please feel free to open a PR and add your organization. You can also email me at ramos.alisha@gmail.com with your suggestion.
+
+_This list was originally referenced in my talk, [Coding Is A Privilege](www.youtube.com/watch?v=PtKOzKNJF-s)._
