@@ -9,6 +9,7 @@ List of organizations working to improve diversity in technology careers.
 * [code.org](http://code.org)
 * [Girl Develop It](https://www.girldevelopit.com/)
 * [Girls Tech Too](http://girlstechtoo.org/)
+* [Hear Me Code](http://hearmecode.com/)
 * [Latina Girls Code](http://www.latinagirlscode.org/)
 * [Resilient Coders](http://www.resilientcoders.org/), Boston-based
 * [ScriptEd](https://scripted.org/)
