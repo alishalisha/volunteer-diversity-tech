@@ -13,6 +13,16 @@ List of organizations working to improve diversity in technology careers.
 * [Resilient Coders](http://www.resilientcoders.org/), Boston-based
 * [ScriptEd](https://scripted.org/)
 * [Science Club For Girls](http://www.scienceclubforgirls.org)
+* [Black Code Collective](https://www.meetup.com/Black-Code-Collective/)
+* [Women Who Code](https://www.womenwhocode.com/)
+* [Lesbians Who Tech](http://lesbianswhotech.org/)
+* [DCFemTech](https://dcfemtech.github.io/)
+* [ByteBack](https://byteback.org/)
+* [Girls in Tech](http://girlsintech.org/)
+* [Women in Technology](http://www.womenintechnology.org/)
+* [Black Female Founders](http://www.blackfemalefounders.org/)
+* [WeSpeakToo](http://wespeaktoo.org/)
+* [Pride & Tech](https://www.meetup.com/pridetechdc/)
 
 Please feel free to open a PR and add your organization. You can also email me at ramos.alisha@gmail.com with your suggestion.
 
