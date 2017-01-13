@@ -14,6 +14,7 @@ List of organizations working to improve diversity in technology careers.
 * [Resilient Coders](http://www.resilientcoders.org/), Boston-based
 * [ScriptEd](https://scripted.org/)
 * [Science Club For Girls](http://www.scienceclubforgirls.org)
+* [Turing School](https://www.turing.io/)
 
 Please feel free to open a PR and add your organization. You can also email me at ramos.alisha@gmail.com with your suggestion.
 
