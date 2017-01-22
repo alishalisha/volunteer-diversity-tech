@@ -33,6 +33,7 @@ List of organizations working to improve diversity in technology careers.
 
 ## Want to contribute to this list? :smile:
 Great! You can contribute in two ways:
+
 1. Open a pull request and add your organization.
 2. Email me at ramos.alisha@gmail.com with your suggestion.
 
