@@ -26,12 +26,23 @@ List of organizations working to improve diversity in technology careers.
 * [Resilient Coders](http://www.resilientcoders.org/), Boston-based
 * [ScriptEd](https://scripted.org/)
 * [Science Club For Girls](http://www.scienceclubforgirls.org)
-* [Speakerinnen](https://speakerinnen.org/)
 * [Turing School](https://www.turing.io/)
 * [WeSpeakToo](http://wespeaktoo.org/)
 * [Women Who Code](https://www.womenwhocode.com/)
 * [Women in Technology](http://www.womenintechnology.org/)
 
-Please feel free to open a PR and add your organization. You can also email me at ramos.alisha@gmail.com with your suggestion.
+## Want to contribute to this list? :smile:
+Great! You can contribute in two ways:
+1. Open a pull request and add your organization.
+2. Email me at ramos.alisha@gmail.com with your suggestion.
+
+**Make sure that your organization suggestion meets the following criteria:**
+* Provides volunteer opportunities for people who are currently working in technology (engineers, designers, etc.)
+* The organization's mission focuses on increasing diversity in technology and STEM
+
+**Include these details in your suggestion:**
+* The organization's name
+* A short description
+* If they are local (vs. national), the city or location in which they're located
 
 _This list was originally referenced in my talk, [Coding Is A Privilege](http://www.youtube.com/watch?v=PtKOzKNJF-s)._
