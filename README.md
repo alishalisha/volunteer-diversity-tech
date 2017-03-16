@@ -22,16 +22,16 @@ List of organizations working to improve diversity in technology careers.
 | [Latina Girls Code](http://www.latinagirlscode.org/) | Latina Girls Code is an organization working to bridge and eliminate the diversity gap for girls, specifically Latinas, interested in entering the tech world | |
 | [Lesbians Who Tech](http://lesbianswhotech.org/) | Lesbians Who Tech is a Community of Queer Women in or around tech (and the people who love them) | |
 | [OpenTechSchool](http://www.opentechschool.org/) | A distributed community initiative organising welcoming and inclusive code learning happenings with real people in the real world | |
-| [Outreachy](https://www.gnome.org/outreachy/) | | |
-| [Pride & Tech](https://www.meetup.com/pridetechdc/) | | |
-| [RailsGirls Summer of Code](http://railsgirlssummerofcode.org/) | | |
-| [Resilient Coders](http://www.resilientcoders.org/) | | Boston |
-| [ScriptEd](https://scripted.org/) | | |
-| [Science Club For Girls](http://www.scienceclubforgirls.org) | | |
-| [Turing School](https://www.turing.io/) | | |
-| [WeSpeakToo](http://wespeaktoo.org/) | | |
-| [Women Who Code](https://www.womenwhocode.com/) | | |
-| [Women in Technology](http://www.womenintechnology.org/) | | |
+| [Outreachy](https://www.gnome.org/outreachy/) | Outreachy helps people from groups underrepresented in free and open source software get involved | |
+| [Pride & Tech](https://www.meetup.com/pridetechdc/) | PTDC is bringing together LGBTIQA+ people across tech | |
+| [RailsGirls Summer of Code](http://railsgirlssummerofcode.org/) | With our award-winning scholarship program we aim to foster diversity in Open Source since 2013 | |
+| [Resilient Coders](http://www.resilientcoders.org/) | Spreading code literacy to young people from traditionally underserved communities. | Boston |
+| [ScriptEd](https://scripted.org/) | ScriptEd equips students in under-resourced schools with the fundamental coding skills and professional experiences that together create access to careers in technology | |
+| [Science Club For Girls](http://www.scienceclubforgirls.org) | Foster excitement, confidence, and literacy in STEM for girls, particularly from underrepresented communities, by providing free, experiential programs and by maximizing meaningful interactions with women mentors in science, technology, engineering, and mathematics | |
+| [Turing School](https://www.turing.io/) | Turing is a growing, thriving community of over a hundred people helping each other become more than what they thought to be possible | |
+| [WeSpeakToo](http://wespeaktoo.org/) | Directory of women and non-binary individuals ready and willing to speak at your next event! | |
+| [Women Who Code](https://www.womenwhocode.com/) | Women Who Code (WWCode) is global non-profit dedicated to inspiring women to excel in technology careers | |
+| [Women in Technology](http://www.womenintechnology.org/) | Women in Technology (WIT) has the sole aim of advancing women in technology -- from the classroom to the boardroom | |
 
 ## Want to contribute to this list? :smile:
 Great! You can contribute in two ways:
