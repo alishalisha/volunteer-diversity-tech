@@ -24,6 +24,7 @@ List of organizations working to improve diversity in technology careers.
 | [OpenTechSchool](http://www.opentechschool.org/) | A distributed community initiative organising welcoming and inclusive code learning happenings with real people in the real world | |
 | [Outreachy](https://www.gnome.org/outreachy/) | Outreachy helps people from groups underrepresented in free and open source software get involved | |
 | [Pride & Tech](https://www.meetup.com/pridetechdc/) | PTDC is bringing together LGBTIQA+ people across tech | |
+| [RailsBridge](http://www.railsbridge.org/) | Offers fun, free weekend workshops to get started or level up with Rails, Ruby, and other web technologies. Our events focus on increasing diversity in tech, so that people of all backgrounds can feel welcome and comfortable in our industry.| |
 | [RailsGirls Summer of Code](http://railsgirlssummerofcode.org/) | With our award-winning scholarship program we aim to foster diversity in Open Source since 2013 | |
 | [Resilient Coders](http://www.resilientcoders.org/) | Spreading code literacy to young people from traditionally underserved communities. | Boston |
 | [ScriptEd](https://scripted.org/) | ScriptEd equips students in under-resourced schools with the fundamental coding skills and professional experiences that together create access to careers in technology | |
