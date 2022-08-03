@@ -9,6 +9,7 @@ List of organizations working to improve diversity in technology careers.
 | [Black Female Founders](http://www.blackfemalefounders.org/) | Provide awareness, support, resources and a platform for Black female entrepreneurs | |
 | [ByteBack](https://byteback.org/) | Byte Back improves economic opportunity by providing computer training and career preparation to underserved Washington, DC metro area residents | |
 | [Code2040](http://code2040.org) | Code2040 creates access, awareness, and opportunities for top Black and Latinx engineering talent to ensure their leadership in the innovation economy | |
+| [Codepath.org](https://www.codepath.org) | Codepath.org help CS students from underrepresented background break into tech by providing both quality prep courses and comprehensive career services and employer connections. At no cost to them, students get the access, exposure, and community they need to successfully navigate the tech industry and jumpstart their career. | Online |
 | [CoderDojo](https://coderdojo.com/) | Teaching kids ages 7-17 to program | |
 | [code.org](http://code.org) | A non-profit dedicated to expanding access to computer science, and increasing participation by women and underrepresented minorities | |
 | [DCFemTech](https://dcfemtech.github.io/) | DCFemTech is a coalition of women leaders aimed at amplifying women in tech organizations, sharing resources, and bringing leaders together to close the gender gap | |
